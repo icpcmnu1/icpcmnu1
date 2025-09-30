@@ -1,0 +1,14 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy to GitHub Pages
+        run: |
+          echo "Deploying website (copy website/ to gh-pages or configure GitHub Pages to use main)"

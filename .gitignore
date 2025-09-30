@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+# C++
+*.o
+a.out
+# Node
+node_modules/
+# GitHub Pages build
+_site/
