@@ -1,144 +1,160 @@
+<div align="center">
+
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&height=70&lines=🏆+ICPC+MNU+Community;🚀+Competitive+Programming;💻+Since+2023;🌟+130%2B+Trainees;🎯+40+Core+Team;🏅+ECPC+Finals" alt="Typing SVG" />
+</h1>
+
+<!-- Animated Banner -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" alt="Coding Animation">
+
+<!-- Dynamic Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ICPC%20MNU-icpcmnu1-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Founded-2023-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trainees-130%2B-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team-40-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Achievement-ECPC%20Finals-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ICPC%20MNU-Community-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆-ECPC_Finals-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥-130%2B_Trainees-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐-40_Core_Team-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Expert%2B_Codeforces-purple?style=for-the-badge" />
 </p>
 
-# ICPC MNU Community — `icpcmnu1`
-
-> A professional, creative home for competitive programming training, community contests, and growth.  
-> *We began in 2023 — now 130+ trainees and a 40-person core team. Many members reached Codeforces Expert and higher.*
-
+<!-- Quick Links -->
 <p align="center">
-  <a href="https://mazen-mo-10.github.io/ICPC-MNU-Site/"><strong>Website / Leaderboards</strong></a>
-  · <a href="#contests">Contests</a>
-  · <a href="#problems">Problems</a>
-  · <a href="#join-us">Join</a>
+  <a href="https://mazen-mo-10.github.io/ICPC-MNU-Site/"><img src="https://img.shields.io/badge/🌐_Website-View_Leaderboards-2E86AB?style=flat-square&logo=google-chrome" /></a>
+  <a href="#contests"><img src="https://img.shields.io/badge/🏆_Contests-Join_Now-FF6B6B?style=flat-square" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/💻_Projects-Explore-4ECDC4?style=flat-square" /></a>
+  <a href="#join"><img src="https://img.shields.io/badge/🤝_Join_Us-Community-45B7D1?style=flat-square" /></a>
 </p>
 
----
-
-## ✨ Highlights (snapshot)
-- 🎯 **Founded:** 2023  
-- 👥 **Core team:** 40 (President, Problem Setters, Mentors, HR, Media)  
-- 🧑‍🎓 **Trainees:** 130+ active participants  
-- 🏆 **Milestone:** Qualified to ECPC Finals; multiple members reached **Codeforces Expert+**  
-- 🛠 **Focus:** Algorithms, data structures, contest simulation, team coaching, interview prep
+</div>
 
 ---
 
-## 🔥 What makes this README look modern
-- Hero banner + badges for instant visual impact  
-- Typing SVG for animated headlines  
-- GIFs/screenshots in the Projects/Leaderboards section  
-- Team "cards" (markdown tables with emojis)  
-- Collapsible FAQ & How-to sections to keep the page compact  
-- Quick commands for one-line copy-paste usage
+## 🎯 About Our Journey
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 1rem;">
+
+**ICPC MNU Community** started in **2023** with a vision to create Egypt's most vibrant competitive programming ecosystem. Today, we're proud to have:
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Animated Stats Grid -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80">
+  <h3>130+</h3>
+  <p><b>Active Trainees</b></p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="80" height="80">
+  <h3>40+</h3>
+  <p><b>Core Team</b></p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="80" height="80">
+  <h3>ECPC</h3>
+  <p><b>Finals Qualified</b></p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
+  <h3>Expert+</h3>
+  <p><b>Codeforces</b></p>
+</div>
+
+</div>
+
+</div>
 
 ---
 
-## 🚀 Quick demo — Run a sample problem (one-liner)
-```bash
-git clone https://github.com/<your-org-or-user>/icpcmnu1.git
-cd icpcmnu1
-python3 judge/run_tests.py problems/practice/sample_problem
+## 👥 Our Team Structure
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 ICPC MNU Leadership] --> B[👑 President]
+    A --> C[📝 Problem Setters]
+    A --> D[🎓 Mentors]
+    A --> E[🤝 HR Team]
+    A --> F[📢 Media Organizers]
+    
+    B --> B1[Community Strategy<br>🌟 Vision & Growth]
+    C --> C1[Contest Creation<br>💡 Problems & Solutions]
+    D --> D1[Training Sessions<br>📚 Workshops & Guidance]
+    E --> E1[Member Management<br>👥 Recruitment & Support]
+    F --> F1[Brand Building<br>📱 Outreach & Content]
 ```
 
----
+</div>
 
-## 🧾 Team (core snapshot)
 
-| Role | Count | Notes |
-|---|---:|---|
-| President | 1 | Strategy & partnerships |
-| Problem Setters | 8 | Problem creation, validation & editorials |
-| Mentors | 20 | Weekly sessions, code reviews, office hours |
-| HR / Ops | 4 | Recruitment & logistics |
-| Media | 7 | Social posts, recaps, site updates |
+## 📈 Community Progress
 
----
+<div align="center">
 
-## 🏆 Achievements — community highlights
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6Hz96y3zQXn6g/giphy.gif" alt="celebrate" width="260" />
-</p>
+### 🎯 Codeforces Rating Distribution
 
-- ✅ ECPC Finals qualification (team milestone)  
-- ✅ Multiple members reached Codeforces **Expert+** and improved ratings through training  
-- ✅ 100s of practice problems solved across training tracks
-
----
-
-## 📚 Structure — where things live
-```
-contests/          # contest packages (statements, input, output, solutions)
-problems/          # practice problems organized by difficulty/topic
-solutions/         # reference solutions and starter templates
-judge/             # runner scripts, Dockerfile, local judge
-website/           # GitHub Pages site (leaderboards, recaps)
-tools/             # test generator, scoreboard exporter
+```mermaid
+pie title Member Ratings
+    "Newbie (<1200)" : 70
+    "Pupil (1200-1400)" : 1
+    "Expert (1600-1900)" : 1
 ```
 
----
+</div>
 
-## 🧰 Files you will love
-- `judge/run_tests.py` — simple runnable judge for local testing  
-- `problems/templates/problem-template.md` — problem submission template  
-- `website/` — ready for GitHub Pages deployment (auto deploy workflow included)
 
----
+## 🛠 Tech Stack & Platforms
 
-## 📈 Leaderboard preview
-> Add exported leaderboard screenshots to `website/assets/leaderboard.png` and they will appear here:
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mazen-mo-10/ICPC-MNU-Site/main/assets/leaderboard-sample.png" alt="leaderboard" width="720" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+<br>
 
-## 💡 How to add a new problem (best-practice)
-<details>
-<summary>Click to expand</summary>
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)
+![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-1. Copy `problems/templates/problem-template.md` → `problems/<topic>/<slug>/statement.md`  
-2. Add `input/*.txt` and `output/*.txt` for judge files  
-3. Add `solutions/<lang>/<slug>.<ext>` as reference solution  
-4. Open a PR, link an issue, and request review from `CODEOWNERS`
+</div>
 
-</details>
 
----
+## 🌟 Success Stories
 
-## 📣 How to join / contribute
-- Create an issue: `Join: <Full Name> - <Desired Role>`  
-- Or email: **engmazenmohamed22@gmail.com** (maintainers will reply)  
-- Read `CONTRIBUTING.md` for branch & PR conventions
+<div align="center">
 
----
+> "From solving my first problem to reaching **Expert on Codeforces** in 6 months - ICPC MNU's structured training made it possible!" 
+> *— Community Member*
 
-## 🛡️ Code of Conduct & Security
-- See `CODE_OF_CONDUCT.md` for community rules  
-- Security issues? See `SECURITY.md` or email engmazenmohamed22@gmail.com
+> "The weekly contests and mentor support helped our team qualify for **ECPC Finals** - a dream come true!"
+> *— Competitive Team*
+
+</div>
+
 
 ---
 
-## 🎨 Styling tips (to make it even better)
-- Replace banner and leaderboard placeholders with real images in `website/assets/`  
-- Add animated SVGs (typing-svg) for eye-catching headlines  
-- Use Shields.io badges with real counts (stars, CI, releases) once repo is live
+<div align="center">
 
----
+### **📞 Connect With Us**
 
-## ❤️ Thanks & Contact
-Made for the **ICPC MNU Community** — bring your teammates, problems, and ideas.  
-Official site: https://mazen-mo-10.github.io/ICPC-MNU-Site/  
-Email: engmazenmohamed22@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/icpc-mnu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/icpcmnu)
+[![Visit Website](https://img.shields.io/badge/Visit_Website-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mazen-mo-10.github.io/ICPC-MNU-Site/)
+[![Contact Us](https://img.shields.io/badge/Contact_Us-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icpcmnu1@gmail.com)
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=icpcmnu1&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<p align="center">
-  <em>Want this README in Arabic or with different colors, GIFs, or logos? Tell me which images/GIFs or the Arabic text and I'll update it and repackage the ZIP.</em>
-</p>
+</div>
